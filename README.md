@@ -11,6 +11,12 @@ Skills: Python / JS / HTML / CSS
 - 💬 Ask me about Python 
 - 📫 How to reach me: utkarshtomar736@gmail.com 
 
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh736&show_icons=true&theme=radical)](https://github.com/utkarsh736/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh736&layout=compact)](https://github.com/utkarsh736/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utkarsh736&repo=IPL_Data_Analysis)](https://github.com/Utkarsh736/IPL_Data_Analysis.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utkarsh736&repo=FlaskBlog)](https://github.com/Utkarsh736/FlaskBlog.git)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Utkarsh736)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/utkarsh736//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/utkarsh_1177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/UtkarshTomar11)  
+
 
