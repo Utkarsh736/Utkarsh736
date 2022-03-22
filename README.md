@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Utkarsh
-#### I am a Data Scientist
+#### I am a Data Scientist, Data Analyst, Web Developer.
 ![Hello, my name is Utkarsh  Nice to meet you](https://user-images.githubusercontent.com/54865380/146643603-ad08fa0b-ec70-467f-9d1e-3fee15d2bb48.png)
 
 I am curious and curiously fascinated by the impact of numbers and data in day-to-day life.
