@@ -24,11 +24,26 @@
 ML Engineer with 4+ years shipping CV and predictive models for agriculture, energy, and sports. 
 Current focus: deploying TensorFlow/YOLO pipelines and integrating LLM reasoning (Google Gemini) into evaluation tools.
 
-- 🔭 Currently building satellite imagery detection pipelines and LLM-powered education tools.
-- 🌱 Stack: Python · TensorFlow · PyTorch · YOLO · Flask · Streamlit · Gradio · SQL · Git · DVC · MLflow.
-- 📫 Reach me: utkarshtomar736@gmail.com
+- 🔭 Currently: leading ML project delivery at Omdena, MLOps practices with DVC/MLflow
+- 🛰️ Recent work: power-infrastructure detection from satellite imagery (YOLOv5/YOLT),
+  OCR-based skill assessment tools, open-source humanitarian mapping (HOT's fAIr)
+- 🌱 Learning: Go and Rust, alongside daily Python
+- 🏏 Past life: cricket video analyst — data is data
+- 📫 utkarshtomar736@gmail.com · [LinkedIn](https://www.linkedin.com/in/utkarsh736/) · [Portfolio](https://utkarsh736.github.io)
+
+
+#### Tech
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh736&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh736&layout=compact)](https://github.com/utkarsh736/github-readme-stats)
 
 ---
+
 
 ### Featured Projects
 | Project | Description | Tech | Link |
