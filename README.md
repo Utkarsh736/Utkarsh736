@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tomar</h1>
-<h3 align="center">ML Engineer · Computer Vision · Predictive Modeling</h3>
+<h3 align="center">Applied AI / ML Engineer | RAG & LLM Applications | Computer Vision | ML Systems</h3>
 
 <p align="center">
   <a href="https://utkarsh736.github.io/">
@@ -18,19 +18,40 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh736&theme=radical" alt="GitHub Streak"/>
 </p>
 
----
+--- 
 
-### About Me
-ML Engineer with 4+ years shipping CV and predictive models for agriculture, energy, and sports. 
-Current focus: deploying TensorFlow/YOLO pipelines and integrating LLM reasoning (Google Gemini) into evaluation tools.
+I build practical AI/ML systems and small implementations that help me understand how they work under the hood. My project-based work has covered computer vision, geospatial ML, low-resource language assessment, and ML pipelines. Recently, I've been focusing on retrieval and LLM applications while continuing to study transformers, inference, and model internals.
 
-- 🔭 Currently: leading ML project delivery at Omdena, MLOps practices with DVC/MLflow
-- 🛰️ Recent work: power-infrastructure detection from satellite imagery (YOLOv5/YOLT),
-  OCR-based skill assessment tools, open-source humanitarian mapping (HOT's fAIr)
-- 🌱 Learning: Go and Rust, alongside daily Python
-- 🏏 Past life: cricket video analyst — data is data
-- 📫 utkarshtomar736@gmail.com · [LinkedIn](https://www.linkedin.com/in/utkarsh736/) · [Portfolio](https://utkarsh736.github.io)
+ 
+I'm interested in work where I can combine solid engineering, careful evaluation, and clear communication—from an initial baseline to a useful, documented system.
 
+ 
+
+## Featured work
+| Project | What it explores |
+|---|---|
+| [RAG Search Engine](https://github.com/Utkarsh736/rag-search-engine) | A Boot.dev RAG Search Engine course project exploring movie search across 5,000 records, BM25 + semantic retrieval, Reciprocal Rank Fusion, reranking, citation-aware RAG, CLIP image search, and evaluation scripts. |
+| Odia skill assessment | Project-based work on a low-resource language assessment workflow involving handwriting/OCR, answer scoring, and report generation. See my portfolio for the case study; contributions should be attributed by project. |
+| Power infrastructure from satellite imagery | YOLOv5/YOLT object-detection workflow for mapping power infrastructure from satellite images, including data preparation and team coordination. |
+| [Transformer / ViT implementations and notes](https://utkarsh736.github.io/) | From-scratch implementations and write-ups on attention, training, generation, and vision transformers. |
+
+ 
+## Current interests
+- RAG quality: retrieval, ranking, evaluation sets, and failure analysis
+- LLM application engineering: structured outputs, APIs, and dependable workflows
+- Inference engineering and performance measurement
+- Transformer internals, mechanistic interpretability, and small reproducible experiments
+
+
+## Find me elsewhere
+
+- [Portfolio](https://utkarsh736.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/utkarsh736/)
+- [Substack — Latent Traversal](https://latenttraversal.substack.com/)
+- [Hugging Face](https://huggingface.co/Utkarsh736)
+- [TensorTonic](https://www.tensortonic.com/profile/utkarshtomar736)
+
+I value reproducible experiments, readable code, and honest notes about what worked, what failed, and what I would improve next.
 
 #### Tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +66,7 @@ Current focus: deploying TensorFlow/YOLO pipelines and integrating LLM reasoning
 ---
 
 
-### Featured Projects
+### Other Projects
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | **Handwritten Math Evaluator** | CV + Gemini LLM evaluation of handwritten Odia equations | Python, TF, Gradio, Gemini | [Repo](https://github.com/Utkarsh736/agent) |
